@@ -1,0 +1,14 @@
+{
+  "name": "m2",
+  "version": "1.0.0",
+  "description": "микросервис M2",
+  "main": "M2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lxrdbisqit",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
